@@ -1,4 +1,4 @@
-![image](https://github.com/22008686/Exp03-Constructor/assets/118916413/afe5ed7b-bd39-4fc3-9e30-58dd1364d54f)# Exp03-Constructor
+# Exp03-Constructor
 
 ## Aim: 
 
